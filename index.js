@@ -36,7 +36,7 @@ bot.on('message', (msg) => {
   var hours = date.getHours();
   
   console.log(onHold);
-  if(hours >= 11 && hours <= 18){
+  if(hours >= 9 && hours <= 18){
     bot.sendMessage(chatId, 'https://uvv.br');
   }
   if (onHold == 1 && text.includes("@") == true){
