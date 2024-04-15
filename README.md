@@ -1,1 +1,11 @@
 # ProvaDevWebAvancado
+## Comandos Utilizados:
+create folder teste
+npx create-next-app@13.4 provaweb
+npm init
+npm install node-telegram-bot-api
+
+npm install -g nodemon
+npm install sqlite3
+npm install dotenv –save
+npx nodemon ./bot.js
