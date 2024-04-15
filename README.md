@@ -1,6 +1,5 @@
 # ProvaDevWebAvancado
 ## Comandos Utilizados:
-create folder teste
 npx create-next-app@13.4 provaweb
 npm init
 npm install node-telegram-bot-api
