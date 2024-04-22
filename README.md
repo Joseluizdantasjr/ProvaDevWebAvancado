@@ -5,6 +5,5 @@
 * npm install node-telegram-bot-api
 
 * npm install -g nodemon
-* npm install prisma --save-dev
-* npx prisma init --datasource-provider sqlite
+* npm install sqlite3
 * npx nodemon ./bot.js
