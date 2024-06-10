@@ -1,4 +1,8 @@
 # ProvaDevWebAvancado
+## Aluno:
+José Luiz Dantas Júnior
+## Professor:
+Otávio Lube
 ## Comandos Utilizados:
 * npx create-next-app@13.4 provaweb
 * npm init
